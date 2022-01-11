@@ -4,7 +4,7 @@ A Flutter project.
 
 ## Getting Started
 
-1. Clone this projector download zip file.
+1. Clone this project or download zip file.
 2. Install flutter on your computer.
 3. Navigate to the root directory.
 4. Run command flutter build apk/ios.
