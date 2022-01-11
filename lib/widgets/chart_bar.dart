@@ -12,6 +12,7 @@ class ChartBar extends StatelessWidget {
     return Column(
       children: [
         Container(
+          height: 35,
           padding: EdgeInsets.only(top: 8, bottom: 5),
           child: FittedBox(
             child: Text(
@@ -26,6 +27,7 @@ class ChartBar extends StatelessWidget {
             height: 70,
             width: 10,
             child: Stack(
+              alignment: Alignment.bottomCenter,
               children: [
                 Container(
                   decoration: BoxDecoration(
